@@ -3,7 +3,8 @@
 This repository repository is collecting all the VST created from our research.
 
 To know more about our research visit our pages
-[Neural Modeling of Musical Devices]https://riccardovib.github.io/
+[Neural Modeling of Musical Devices](https://riccardovib.github.io/)
+
 [Neural Sample-based Piano](https://riccardovib.github.io/NeuralSample-basedPiano_pages/)
 
 
