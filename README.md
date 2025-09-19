@@ -2,10 +2,11 @@
 
 This repository repository is collecting all the VST created from our research.
 
-To know more about our research visit our pages
-[Neural Modeling of Musical Devices](https://riccardovib.github.io/)
+To know more about our research visit our pages:
 
-[Neural Sample-based Piano](https://riccardovib.github.io/NeuralSample-basedPiano_pages/)
+- [Neural Modeling of Musical Devices](https://riccardovib.github.io/)
+
+- [Neural Sample-based Piano](https://riccardovib.github.io/NeuralSample-basedPiano_pages/)
 
 
 This code relies on JUCE 8 and onnxruntime library. This code runs on macOS systems using Intel or Apple silicon (soon Windows).
