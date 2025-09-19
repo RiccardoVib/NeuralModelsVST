@@ -26,7 +26,7 @@ This code relies on JUCE 8 and onnxruntime library. This code runs on macOS syst
 
 # How to Build the VST
 
-To build the VST, verify that the appropriate release of ONNX Runtime is loaded into its designated folder (from [onnxruntime-releases](https://github.com/microsoft/onnxruntime/releases)
+To build the VST, verify that the appropriate release of ONNX Runtime is loaded into its designated folder (from [onnxruntime-releases](https://github.com/microsoft/onnxruntime/releases))
 ```
 ./_EffectName_
 ├── Builds
